@@ -84,7 +84,8 @@ body{
 }
 
 		/**Home page***/
-.container .jumbotron{
+.container .
+{
 		box-shadow: 0 0 50px #3F0C1F;
 		border: 2px solid #3F0C1F;
 }
@@ -201,7 +202,7 @@ h3.menu-item-title {
 @media (min-width: 1200px){
 	/**Home Page**/
 	.container .jumbotron{
-		background: url("../images/jumbotron_1200.jpg") no-repeat;
+		background: url("images/jumbotron_1200.jpg") no-repeat;
 		height: 700px;
 	}
 
@@ -220,7 +221,7 @@ h3.menu-item-title {
 	/**End Header**/
 	/**Home Page**/
 	.container .jumbotron{
-		background: url("../images/jumbotron_992.jpg") no-repeat;
+		background: url("images/jumbotron_992.jpg") no-repeat;
 		height: 558px;
 	}
 		/**End Home Page**/
@@ -230,7 +231,7 @@ h3.menu-item-title {
 @media(min-width: 768px) and (max-width: 991px){
 	/**Home Page**/
 	.container .jumbotron{
-		background: url("../images/jumbotron_768.jpg") no-repeat;
+		background: url("images/jumbotron_768.jpg") no-repeat;
 		height: 432px;
 	}
 	/**End Home Page**/

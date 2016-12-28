@@ -202,7 +202,7 @@ h3.menu-item-title {
 @media (min-width: 1200px){
 	/**Home Page**/
 	.container .jumbotron{
-		background: url('../images/Jumbotron_1200.jpg') no-repeat;
+		background: url('../images/Jumbotron_992.jpg') no-repeat;
 		height: 700px;
 	}
 
@@ -231,7 +231,7 @@ h3.menu-item-title {
 @media(min-width: 768px) and (max-width: 991px){
 	/**Home Page**/
 	.container .jumbotron{
-		background: url('../images/Jumbotron_768.jpg') no-repeat;
+		background: url('../images/Jumbotron_992.jpg') no-repeat;
 		height: 432px;
 	}
 	/**End Home Page**/
